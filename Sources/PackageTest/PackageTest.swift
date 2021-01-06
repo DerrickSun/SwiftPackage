@@ -2,6 +2,12 @@ struct PackageTest {
     var text = "Hello, World!"
 }
 
+class PackageA {
+    func action() {
+        print("action")
+    }
+}
+
 #if os(Linux)
 
 // do something on Linux
