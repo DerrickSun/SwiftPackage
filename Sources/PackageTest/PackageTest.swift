@@ -1,5 +1,6 @@
 struct PackageTest {
     var text = "Hello, World!"
+    1
 }
 
 class PackageA {
