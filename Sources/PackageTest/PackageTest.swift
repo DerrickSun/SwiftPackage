@@ -1,12 +1,5 @@
 struct PackageTest {
     var text = "Hello, World!"
-
-    origin 1
-
-    1
-
-    2
-
 }
 
 class PackageA {
