@@ -5,6 +5,8 @@ struct PackageTest {
 
     1
 
+    2
+
 }
 
 class PackageA {
